@@ -390,4 +390,3 @@ SELECT p.name, s.remote_address, s.remote_port, COUNT(*) AS connections
 
 ---
 
-*Made for blue teamers and incident responders. Use responsibly and always get proper authorization.*
